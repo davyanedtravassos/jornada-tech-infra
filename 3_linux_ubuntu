@@ -1,0 +1,8 @@
+# 🐧 Trilha de Sistema Operacional Linux
+
+Nesta pasta, vou registrar minha evolução dominando o terminal do Linux Ubuntu e entendendo como gerenciar um sistema operacional por linha de comando.
+
+## 🎯 O que vou aprender:
+* **Comandos Essenciais:** Navegar pelas pastas, criar, ler e deletar arquivos usando apenas texto (sem usar o mouse).
+* **Permissões de Arquivos:** Entender quem pode ler, escrever ou rodar um programa dentro do sistema, garantindo segurança.
+* **Automação (Crontab):** Como programar o Linux para rodar o nosso robô de Python de forma 100% automática em horários agendados.
