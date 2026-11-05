@@ -30,3 +30,9 @@ flowchart TD
 ```bash
 python3 verificador_sites.py
 ```
+
+### Robô funcionando
+
+Este é o resultado real do robô no terminal: três sites ✅ no ar e um site falso ❌ fora do ar, de propósito, para mostrar que o robô não trava quando algo falha.
+
+![Verificador de sites rodando no terminal](imagens/robo-funcionando.png)
